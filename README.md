@@ -23,3 +23,4 @@ To run this project:
 2. Go to [Vercel](https://vercel.com/new) and link the repository. Deploy your application with the environment variables from your `.env.local`
 
 3. If necessary update you "Base Domain" and webhook callback urls on the app settings page on the whop dashboard.
+# creator-distributed-ai
